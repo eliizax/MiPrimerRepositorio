@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-Mi repositorio del proyecto intermodular, voy probando cosas
+Mi repositorio del proyecto intermodular y voy probando cosas
